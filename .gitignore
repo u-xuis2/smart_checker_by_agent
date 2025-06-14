@@ -1,7 +1,5 @@
 # claud-code関係の除外
-in/
 CLAUDE.md
-note.md
 
 # プロジェクト固有の除外ファイル
 .claude
