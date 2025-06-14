@@ -1,0 +1,11 @@
+{
+  "collection_interval_hours": 1,
+  "analysis_interval_hours": 24,
+  "data_retention_years": 2,
+  "device_wait_seconds": 3,
+  "llm_api_key": "YOUR_GEMINI_API_KEY",
+  "llm_model": "gemini-pro",
+  "llm_max_calls": 32,
+  "alert_command": "./alert_notify.sh",
+  "error_command": "./error_notify.sh"
+}
